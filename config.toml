@@ -1,0 +1,14 @@
+baseURL = 'https://marcfowler.github.io/flare-demo-15/'
+languageCode = 'en-us'
+title = 'My Hugo Blog'
+theme = 'cactus'
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = ''      # twitter.com/YOUR_TWITTER_ID
+  github = ''       # github.com/YOUR_GITHUB_ID
+  instagram = ''    # instagram.com/YOUR_INSTAGRAM_ID
+  linkedin = ''     # linkedin.com/in/YOUR_LINKEDIN_ID
